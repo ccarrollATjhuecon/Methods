@@ -15,7 +15,7 @@ When that is done, complete the assignment below (which combines elementary bash
 
    * This is its way of asking you the filename you want to use
 
-   * Give it a filename `Write-Your-First-Bash-Script-Using-Emacs_[Moniker].sh`
+   * Give it a filename `First-Bash-Script-[Moniker].sh`
 
 0. As the first line of the script, enter the exact letters `#!/bin/bash`
 
