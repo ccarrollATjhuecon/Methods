@@ -6,8 +6,8 @@ Professor [Christopher D. Carroll](http://www.econ2.jhu.edu/people/ccarroll)
 
 Office Hours:
 
-   * [Appointments](https://calendar.google.com/calendar/ical/carrollcdcappts%40gmail.com/public/basic.ics)
-   * [Instructions](http://www.econ2.jhu.edu/people/ccarroll/calendar.html) boil down to using the password available [here](https://www.econ2.jhu.edu/people/ccarroll/private/PasswordForCarrollCDCApptsAccount.txt) to log in and make a calendar appointment yourself
+   * [Appointments](https://calendar.google.com/calendar/selfsched?sstoken=UUNxMjFfNUtvakNSfGRlZmF1bHR8NjZhZDA0NmI3YmE5N2Y5N2Y3YjE2MzI5ZDg5YTYwYjQ) (be sure to read the 'rules' link).
+   * [Instructions](https://www.econ2.jhu.edu/people/ccarroll/calendar.html) boil down to using the password available [here](https://www.econ2.jhu.edu/people/ccarroll/private/PasswordForCarrollCDCApptsAccount.txt) to log in and make a calendar appointment yourself
 
 This course will cover two categories of computational tools:
 
